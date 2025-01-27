@@ -76,8 +76,7 @@ Ensure the following are installed on your system:
 ## Project Structure
 
 - `pdf_assistant.py` - Main script to run the assistant.
-- `pdf_url_knowledge_base.py` - Module for handling PDF text extraction and knowledge base creation.
-- `requirements.txt` - List of Python dependencies.
+- `pdf.py` - Module for handling PDF text extraction and knowledge base creation.
 - `README.md` - Project documentation.
 
 ---
